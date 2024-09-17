@@ -18,7 +18,7 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-# theme: "minimal"
+theme: "minima"
 
 rss: rss
 
@@ -41,4 +41,4 @@ defaults:
     values:
       tags: Other
 
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
